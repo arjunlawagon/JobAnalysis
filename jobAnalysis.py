@@ -48,8 +48,6 @@ class job:
 bau = job()
 prj = job()
 
-ftpstatus = ""
-
 
 def findstarttime(x, l):
     pos = l.find("STARTED")
